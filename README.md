@@ -1,6 +1,7 @@
 # Dijkstra
 https://student.labranet.jamk.fi/~M2181/dijkstra/dijkstra.html
 
+[koodiin](yritys.py)
 Dijkstran algoritmi toteutettu Python-ohjelmointikielellä
 
 verkko:
